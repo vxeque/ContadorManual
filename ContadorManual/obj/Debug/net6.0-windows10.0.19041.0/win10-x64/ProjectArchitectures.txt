@@ -1,0 +1,1 @@
+C:\Users\victo\source\repos\ContadorManual\ContadorManual\ContadorManual.csproj;x64
