@@ -18,9 +18,9 @@
             </VerticalStackLayout>
         </Border>
 
-        <!--<Label Text="Rango del conteo:"/>-->
+        <Label Text="Rango del conteo:"/>
 
-        <!--<Slider Minimum="1" Maximum="10" x:Name="RangoDelConteoSlider" />-->
+        <Slider Minimum="1" Maximum="10" x:Name="RangoDelConteoSlider" />
 
         <HorizontalStackLayout Margin="16" Spacing="16" HorizontalOptions="Center">
             <Button Text="Contar" WidthRequest="130" Clicked="onClickedContadorButton"/>

@@ -32,9 +32,9 @@ namespace ContadorManual.Models
 
         }
 
-        public void Contar()
+        public void Contar(int paso)
         {
-            Conteo += 1;
+            Conteo += paso;
         }
 
         public void Reiniciar()

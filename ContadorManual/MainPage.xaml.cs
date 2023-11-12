@@ -17,8 +17,8 @@ public partial class MainPage : ContentPage
 
     private void onClickedContadorButton(object sender, EventArgs e)
     {
-        // int rango = (int) RangoDelConteoSlider.Value;
-        _contador.Contar();
+        int rango = (int)RangoDelConteoSlider.Value;
+        _contador.Contar(rango);
     }
 
     private void onClickedReiniciarButton(object sender, EventArgs e)

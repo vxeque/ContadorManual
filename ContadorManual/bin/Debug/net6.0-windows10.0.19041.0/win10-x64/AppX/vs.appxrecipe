@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\victo\source\repos\ContadorManual\ContadorManual\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-09T04:33:52.454</Modified>
+      <Modified>2023-11-12T02:54:59.101</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\victo\source\repos\ContadorManual\ContadorManual\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-09T04:33:23.921</Modified>
+      <Modified>2023-11-12T02:54:58.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\victo\source\repos\ContadorManual\ContadorManual\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ContadorManual.runtimeconfig.json">
       <PackagePath>ContadorManual.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\victo\source\repos\ContadorManual\ContadorManual\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ContadorManual.dll">
       <PackagePath>ContadorManual.dll</PackagePath>
-      <Modified>2023-11-09T04:33:51.412</Modified>
+      <Modified>2023-11-12T02:54:57.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\victo\source\repos\ContadorManual\ContadorManual\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ContadorManual.exe</PackagePath>
-      <Modified>2023-11-09T04:33:51.469</Modified>
+      <Modified>2023-11-12T02:54:57.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\victo\source\repos\ContadorManual\ContadorManual\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ContadorManual.deps.json">
       <PackagePath>ContadorManual.deps.json</PackagePath>
